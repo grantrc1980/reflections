@@ -1,4 +1,4 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is a place to add files before you commit to adding them to the repository. It allows you to maybe make changes and allows you to be sure before
-commit the files too the repository.
+commiting the files too the repository in git bash.
