@@ -2,3 +2,7 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is a place to add files before you commit to adding them to the repository. It allows you to maybe make changes and allows you to be sure before
 commiting the files too the repository in git bash.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Different versions of a file can be produced which means you don't commit to changing all the files to just one version.
